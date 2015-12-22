@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ladybugonarainbow]]></title>
+        <description><![CDATA[ladybugonarainbow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 18:00:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here we go, first round launch.</p>]]></description>
+            <link>undefinedf8da9005-5333-445d-902d-56751302127d/index.html</link>
+            <guid isPermaLink="false">f8da9005-5333-445d-902d-56751302127d</guid>
+            <pubDate>Tue, 22 Dec 2015 18:00:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
